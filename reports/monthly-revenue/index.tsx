@@ -10,6 +10,7 @@ export default function MonthlyRevenue() {
         <Tab value="overview" label="Overview"><Overview /></Tab>
         <Tab value="summary"  label="Summary"><Summary /></Tab>
         <Tab value="region"   label="By Region"><ByRegion /></Tab>
+        <Tab>dsgdsf
         
       </Tabs>
     </Report>
